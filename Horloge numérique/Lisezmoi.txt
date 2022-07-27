@@ -1,0 +1,2 @@
+Il faut installer pillow (PIL) pour avoir utiliser ce logiciel.
+Merci de votre attention.

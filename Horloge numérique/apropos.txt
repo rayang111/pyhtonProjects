@@ -1,0 +1,13 @@
+Le programme Horloge numérique est une expérimentation 
+de quelques une des nombreuses fonctionnalités de python avec notamment 
+les modules time, os, pillow, turtle et bien sûr tkinter. L'interface graphique 
+a été réalisé avec tkinter. L'horloge rudimentaire avec time, les deux 
+dessins (une sorte de polygone complexe et une l'illustration d'un prisme qui fait 
+référence à la pochette de l'album "The dark side of the Moon" du groupe anglais 
+Pink Floyd) ont été réalisés avec turtle. Et la visionneuse d'image avec pillow
+et tkinter. Leurs fonctionnalités sont basiques.
+
+Ce programme n'a pas pour objectif d'être un véritable logiciel, comme dit 
+précédemment, ce n'est qu'une expérimentation.
+
+Crée par Rayan GRIB, version 1.0
